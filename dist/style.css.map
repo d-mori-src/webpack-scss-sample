@@ -1,0 +1,1 @@
+{"version":3,"file":"style.css","mappings":"AAGA,EACE,WAJQ,CAKR,qBAJW,C","sources":["webpack://myproject/./src/style.scss"],"sourcesContent":["$p_color: green;\n$p_bg_color: yellow;\n \np {\n  color: $p_color;\n  background-color: $p_bg_color;\n}"],"names":[],"sourceRoot":""}
